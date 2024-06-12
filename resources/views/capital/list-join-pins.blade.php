@@ -1,0 +1,1 @@
+list-join-pins.blade.php
